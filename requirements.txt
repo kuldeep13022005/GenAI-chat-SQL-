@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-groq
+streamlit
+python-dotenv
+sqlalchemy
+mysql-connector-python
+numpy==1.26.4
